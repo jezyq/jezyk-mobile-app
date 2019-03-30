@@ -1,2 +1,2 @@
 # jezyk-mobile-app
-ionic framework
+react native
